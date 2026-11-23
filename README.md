@@ -2,7 +2,7 @@
 
 I build real-time voice AI agents and full-stack products in Python and TypeScript.
 
-From February to October 2026 I was the main engineer at SteuerClara, a Berlin startup that sells an AI phone assistant to German tax firms. Before that I spent five years as a working-student developer at Axel Springer (BILD, WELT, AutoBILD, ComputerBILD). I did both alongside my BSc in Software Engineering at CODE University of Applied Sciences in Berlin, which I finish in January 2027.
+From February to November 2026 I was the main engineer at SteuerClara, a Berlin startup that sells an AI phone assistant to German tax firms. Before that I spent five years as a working-student developer at Axel Springer (BILD, WELT, AutoBILD, ComputerBILD). I did both alongside my BSc in Software Engineering at CODE University of Applied Sciences in Berlin, which I finish in January 2027.
 
 I'm looking for a full-time AI engineer role in Berlin, on voice or agent products.
 
